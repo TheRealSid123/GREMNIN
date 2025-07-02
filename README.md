@@ -22,12 +22,6 @@ First run this to create the virtual environment
 python -m venv newenv #newenv is the name of the virtual environment
 ```
 
-If that doesn't work, try 
-
-```bash
-python3 -m venv newenv #newenv is the name of the virtual environment
-```
-
 Then run this to activate your virtual environment
 
 On windows Command Prompt - 

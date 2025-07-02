@@ -47,6 +47,12 @@ Run this in the terminal to import all necessary libraries before running the co
 ```bash
 pip install -r requirements.txt
 ```
+or if it doesn't work
+
+```bash
+pip3 install -r requirements.txt
+```
+
 
 Run frontend.py
 
